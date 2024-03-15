@@ -8,4 +8,4 @@ Notre site Web est dédié à l'intelligence artificielle et à la technologie, 
 
 Nous espérons que vous apprécierez votre visite sur notre site Web et que vous découvrirez ce qui rend notre produit différent. N'hésitez pas à nous contacter si vous avez des questions ou des commentaires.
 
-Ahmed Amine Antaki / Mohamed amin sebkaoui
+Ahmed Amine Antaki(le home page et sign up) / Mohamed amin sebkaoui (tech page et products page)
